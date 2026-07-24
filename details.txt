@@ -1,5 +1,5 @@
 Name: Swetha K
 Institute: Cyber Square
-Course: Mern Stack
+Course: designing
 Email: swethakarimbil@gmail.com
 Age:21
